@@ -31,5 +31,7 @@ case $choice in
 	echo "It's Friday.. ";;
 	$sat)
 	echo "It's Saturday..";;
+	*)
+	echo "Invalid Choice..";;
 esac	
 
